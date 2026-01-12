@@ -1,6 +1,6 @@
 ## Unsupervised Learning
 
-This is an folder of Unsupervised Learning for the Unsupervised Machine Learnings:
+This folder contains all the Unsupervised Machine Learnings Algorithms:
 1. K-Means
 2. DBSCAN
 3. Hierrachical Clustering
