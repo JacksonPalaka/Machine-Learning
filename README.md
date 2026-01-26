@@ -15,3 +15,7 @@ Unsupervised learning works differently because the data does not come with any 
 
 # Projects in this Repository:
 1. Titanic Survival Prediction using Random Forest
+
+
+# Tutorial followed :
+https://youtu.be/ie4oGI85SAE?si=3U1s8hAo62NuVpLW
