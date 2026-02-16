@@ -3,7 +3,7 @@
 # This repository is created to record all my Machine Learning concepts and projects. 
 1. Numpy
 2. Pandas
-3. Data Preparation
+3. Data Preparation and Pipeline
 
 Types of Machine Learning Algorithms :
 1. Supervised
