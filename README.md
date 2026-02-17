@@ -23,3 +23,6 @@ Unsupervised learning works differently because the data does not come with any 
 
 # Tutorial followed :
 https://youtu.be/ie4oGI85SAE?si=3U1s8hAo62NuVpLW
+
+
+# Data Preparation for ML Models:
